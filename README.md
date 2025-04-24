@@ -45,3 +45,25 @@ source venv/bin/activate
 
 # Cài thư viện
 pip install -r requirements.txt
+
+---
+
+## 🚀 Chạy chương trình
+
+```bash
+python main.py
+```
+
+Ứng dụng sẽ mở ở địa chỉ: [http://localhost:8888](http://localhost:8888)
+
+---
+
+## 📝 Tính năng chính
+
+- 💬 Chatbot AI: Trò chuyện với mô hình GPT-3.5-turbo qua OpenRouter
+- 📄 Tóm tắt bài viết: Gửi URL báo/blog để được tóm tắt nội dung
+- 🕵️‍♂️ Tìm kiếm sự kiện: Gõ câu hỏi có chứa từ “sự kiện” hoặc “mới nhất”
+
+---
+
+
