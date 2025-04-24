@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Download file chứa API key và thay thế vào trong code
 
-Link tải file chứa API key: https://drive.google.com/file/d/1z1w226yf0uWANttXl17FbwwrCVG-wZ3_/view?usp=sharing
+Link tải file chứa API key: [https://drive.google.com/file/d/1z1w226yf0uWANttXl17FbwwrCVG-wZ3_/view?usp=sharing]
 Sau khi tải file về thì copy nội dung dán vào thay thế API key hiện tại trong code
 
 Ngoài ra cũng có thể truy cập [https://openrouter.ai/settings/keys] để tạo API key riêng 
@@ -81,6 +81,12 @@ python main.py
 - 💬 Chatbot AI: Trò chuyện với mô hình GPT-3.5-turbo qua OpenRouter
 - 📄 Tóm tắt bài viết: Gửi URL báo/blog để được tóm tắt nội dung
 - 🕵️‍♂️ Tìm kiếm sự kiện: Gõ câu hỏi có chứa từ “sự kiện” hoặc “mới nhất”
+
+---
+
+## 🚀 Demo
+
+[https://drive.google.com/file/d/19LYQBKLzs6sFb0ccnI0JPb0OdBgF_-6Z/view?usp=sharing]
 
 ---
 
