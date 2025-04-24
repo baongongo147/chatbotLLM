@@ -1,0 +1,4 @@
+openai==0.28.1
+gradio==5.25.2
+newspaper3k==0.2.8
+duckduckgo-search==8.0.1
