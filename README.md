@@ -57,6 +57,15 @@ pip install -r requirements.txt
 
 ---
 
+## Download file chứa API key và thay thế vào trong code
+
+Link tải file chứa API key: https://drive.google.com/file/d/1z1w226yf0uWANttXl17FbwwrCVG-wZ3_/view?usp=sharing
+Sau khi tải file về thì copy nội dung dán vào thay thế API key hiện tại trong code
+
+Ngoài ra cũng có thể truy cập [https://openrouter.ai/settings/keys] để tạo API key riêng 
+
+---
+
 ## 🚀 Chạy chương trình
 
 ```bash
