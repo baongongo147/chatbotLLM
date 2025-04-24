@@ -4,7 +4,7 @@ from newspaper import Article
 from duckduckgo_search import DDGS 
 
 # Khai báo API key OpenRouter
-openai.api_key = "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"  # Thay API key
+openai.api_key = "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"  # Thay API key
 openai.api_base = "https://openrouter.ai/api/v1"
 
 # hàm sử dụng để tóm tắt bài viết từ link
