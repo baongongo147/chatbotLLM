@@ -41,11 +41,11 @@ cd Downloads/chatbot-openrouter-main
 python -m venv venv
 ```
 ### Kích hoạt môi trường ảo
-### Windows
+Windows
 ```bash
 venv\Scripts\activate
 ```
-### macOS/Linux
+macOS/Linux
 ```bash
 source venv/bin/activate
 ```
